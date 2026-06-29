@@ -10,7 +10,6 @@
 [![Email](https://img.shields.io/badge/Email-say%20hi-B5876A?style=flat&logo=gmail&logoColor=white)](mailto:pandeneha99@gmail.com)
  
 </div>
----
  
 ## about me
  
@@ -21,7 +20,6 @@ What drives me: I believe technology should feel like it was made *for* people, 
 - 🔭 Currently building **AI-powered tools** for real human problems
 - 🌱 Deep-diving into **GenAI, LangChain, RAG, and prompt engineering**
 - 💼 Open to **Full Stack / Frontend / AI-focused** roles
-- ☕ Overthinker. Gym person. Eternal chai drinker.
 ---
  
 ## things i build with
